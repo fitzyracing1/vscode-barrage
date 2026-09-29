@@ -1,0 +1,36 @@
+# vscode
+
+> HTML shelf named vscode. Sister of custom-vscode and vscode-oss-dev.
+
+## Purpose
+Give a plain-language door to fitzyracing1/vscode.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader to the sister shelves if needed.
+
+## Key ideas
+- vscode (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/vscode
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/vscode”
+
+## Decisions the program makes
+- If a reader wants a sister shelf → custom-vscode or vscode-oss-dev
+
+## What a person would notice
+A named wrap on a vscode door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
